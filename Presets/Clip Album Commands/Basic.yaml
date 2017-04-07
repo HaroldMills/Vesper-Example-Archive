@@ -1,0 +1,8 @@
+commands:
+
+    ">": [show_next_page]
+    "<": [show_previous_page]
+    ".": [select_next_clip]
+    ",": [select_previous_clip]
+    "/": [play_selected_clip]
+    "~": [toggle_clip_labels]

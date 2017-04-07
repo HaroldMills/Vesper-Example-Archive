@@ -1,0 +1,8 @@
+default_presets:
+    Clip Album Settings: Resizing Clips, Labels Bottom
+    Clip Album Commands: Basic
+
+calendar_defaults:
+    station_mic: CLC / 21c 1
+    detector: Old Bird Tseep
+    classification: "Call*"
